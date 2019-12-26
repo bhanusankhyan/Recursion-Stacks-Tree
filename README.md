@@ -1,8 +1,8 @@
-#Problem 1:
+# Problem 1:
 
 Given an array X and a number y, find the contiguous subarray of smallest length whose sum is greater than y. Note that array X contains only the positive numbers
 
-###Example 
+### Example 
 
 Test 1 - X = [9, 18, 42, 98], y = 21
 
@@ -14,7 +14,7 @@ Output subarray of smallest length is  [9, 18]
 
 
 
-#Problem 2:
+# Problem 2:
 
 You are given a CSV file employees.csv as shown below. In this file,  the managerid column refers to the id of the employee who is a manager. So, the manager is also an employee. For example Ramesh is the manager of Dinesh in the CSV file given below.
 
@@ -28,7 +28,7 @@ Id, name, managerid
 
 You have to read this csv file and create a tree like structure in which parent node is the manager of the child node. You can use “\t” tab for indentation or showing the hierarchy.
 
-###Output for the above file - 
+### Output for the above file - 
 
 Abhishek - 4
     Ramesh - 2
